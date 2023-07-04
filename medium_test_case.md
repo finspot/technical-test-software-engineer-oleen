@@ -47,9 +47,6 @@
   - day: 3
     start: "13:00"
     end: "17:30"
-- blockSlot: # vacances
-  - start: 2021-03-02
-    end: 2021-03-02
 ```
 
 ## paramètres
