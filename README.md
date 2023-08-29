@@ -71,11 +71,13 @@ Créer un programme permettant de calculer les disponibilités d'un expert.
 2.  N'hésitez pas à laisser des commentaires, écrire des tests unitaires et laisser un minimum de documentation pour lancer votre programme.
 3. Ne restez pas bloqué à cause d'une contrainte qui vous pose problème, soyez libre d'ignorer une difficulté pour avancer. Mieux vaut une solution partielle qui fonctionne bien qu'une solution complète qui fonctionne mal. J’ai volontairement omis l'attendu de chaque jeux de tests parce que ça fait aussi parti du job de déterminer comment le service va fonctionner.
 
-[Jeux de tests faciles ](./easy_test_case.md)
+Pour la partie à faire de votre côté, il n'est pas nécessaire pas d'implémenter toutes les contraintes décrites plus haut. Vous pouvez vous concentrer sur le jeu de tests suivant:
 
-[Jeux de test moins faciles](./medium_test_case.md)
+[Jeux de tests à faire](./easy_test_case.md)
 
-[Jeux de test encore moins facile](./hard_test_case.md)
+Pour la partie debrief ensemble, nous aborderons le problème dans son ensemble, avec par exemple le jeu de tests suivant:
+
+[Jeux de test pour le debrief](./hard_test_case.md)
 
 ## Exercice - Partie 2
 
